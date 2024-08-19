@@ -1,2 +1,2 @@
 # Face_Recognition_From_Images
-Group 2 Team AI ITPTIT
+Group 1 Team AI ITPTIT
